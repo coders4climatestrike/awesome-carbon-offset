@@ -11,11 +11,16 @@ This is a list of companies/organisations that provide carbon offseting.
 
 
 * [Atmosfair](https://www.atmosfair.de/en/climate-protection-projects/) 
-    * A German non-profit organization that actively contributes to CO₂ mitigation by promoting, developing and financing renewable energies in over 15 countries worldwide. 
+    * A German *non-profit organization* that actively contributes to CO₂ mitigation by promoting, developing and financing renewable energies in over 15 countries worldwide. 
     * Recommended by someone I know
     * Used it to offset a flight. There is a carbon calculator there. The website explains why they choose the projects they use to finance. 
     * Added on 18/07/2019
 
+* [Carbon Footprint](https://www.carbonfootprint.com/contact.aspx)
+   * A for profit company. Seems more focused on companies than individuals. So many certifications: ISO 14001:2015 certified and Carbon Neutral,  ISO 9001:2015 certified,  founding members of the Quality Assurance Standard (QAS) .They run the Carbon Academy for peer group learning, frequently give talks and contribute paper to journals. They won a number of awards and also are a chosen partner for various European funding programmes.   Independently audited Business Carbon Calculator 
+   * Not used it directly, mostly because it looks as if a lot of the info on the site is stale. However the [news section](https://www.carbonfootprint.com/news.html) shows progress on their projects which is great to see.
+   * No direct experience with the company
+   * Added on 18/07/2019
 
 ---
 Add one you know about... template below
