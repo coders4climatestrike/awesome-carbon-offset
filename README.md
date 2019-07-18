@@ -20,10 +20,10 @@ This is a list of companies/organisations that provide carbon offseting.
 ---
 Add one you know about... template below
 * <company-name> (linked url) 
-    * <short description>
+    * short description
     * Why did you choose it?
     * Have you a direct experience with this company?
-    * data added
+    * date added
 
 ## FAQ
 
