@@ -7,10 +7,13 @@ It aims to give an overview of what's out there and anything else that might be 
 
 ## Companies and organisations that provide carbon offset
 
+This is a list of companies/organisations that provide carbon offseting. 
+
+
 * [Atmosfair](https://www.atmosfair.de/en/climate-protection-projects/) 
     * A German non-profit organization that actively contributes to CO₂ mitigation by promoting, developing and financing renewable energies in over 15 countries worldwide. 
     * Recommended by someone I know
-    * Used it to offset a flight. There is a calculator there.
+    * Used it to offset a flight. There is a carbon calculator there. The website explains why they choose the projects they use to finance. 
     * Added on 18/07/2019
 
 
