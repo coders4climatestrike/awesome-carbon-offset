@@ -25,7 +25,20 @@ Add one you know about... template below
     * Have you a direct experience with this company?
     * date added
 
+## Carbon calculators
+
+* if you got the rough numbers this is a carbon calculator https://www.carbonfootprint.com/calculator.aspx
+
+
 ## FAQ
+
+* How does carbon offseting works?
+
+>A carbon offset is a reduction in emissions of carbon dioxide or other greenhouse gases made in order to compensate for emissions made elsewhere.[1][2][3] Offsets are measured in tonnes of carbon dioxide-equivalent (CO2e). One tonne of carbon offset represents the reduction of one tonne of carbon dioxide or its equivalent in other greenhouse gases.
+> There are two markets for carbon offsets. In the larger, compliance market, companies, governments, or other entities buy carbon offsets in order to comply with caps on the total amount of carbon dioxide they are allowed to emit. 
+>In the much smaller, voluntary market, individuals, companies, or governments purchase carbon offsets to mitigate their own greenhouse gas emissions from transportation, electricity use, and other sources. 
+(source [wikipedia](https://en.wikipedia.org/wiki/Carbon_offset))
+
 
 
 ## Articles about carbon offsetting
