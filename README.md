@@ -21,7 +21,10 @@ This is a list of companies/organisations that provide carbon offseting.
    * Not used it directly, mostly because it looks as if a lot of the info on the site is stale. However the [news section](https://www.carbonfootprint.com/news.html) shows progress on their projects which is great to see.
    * No direct experience with the company
    * Added on 18/07/2019
-
+* MyClimate (https://www.myclimate.org/) 
+    * The Swiss Non-Profit Organisation. Does consultation, education and climate protection projects.     
+    * Recommended via Twitter 
+    * Added on 19/08/2019
 ---
 Add one you know about... template below
 * <company-name> (linked url) 
