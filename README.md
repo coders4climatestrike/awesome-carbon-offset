@@ -25,6 +25,13 @@ This is a list of companies/organisations that provide carbon offseting.
     * The Swiss Non-Profit Organisation. Does consultation, education and climate protection projects.     
     * Recommended via Twitter 
     * Added on 19/08/2019
+
+* World Land Trust (https://www.worldlandtrust.org/) 
+    * WLT is an international conservation charity that protects the world's most biologically significant and threatned habitats acre by acre.
+    * The project protects trees and wild life.
+    * Used it to offset a flight. The is also a carbon calculator. You can get a certificate for your offset. 
+    * Added on 18/10/2019
+
 ---
 Add one you know about... template below
 * <company-name> (linked url) 
