@@ -9,13 +9,6 @@ It aims to give an overview of what's out there and anything else that might be 
 
 This is a list of companies/organisations that provide carbon offseting. 
 
-
-* [Offset Earth](https://offset.earth/) 
-    * A British for-profit organization which simplifies carbon offsetting for individuals, families and businesses. Although Offset Earth is UK Limited company, it is an open-startup and all of their financials are availible to see. The margins are super thin as the founders believe in impact over profit.
-    * I run it! ([@remotealex](https://twitter.com/remotealex) 👋)
-    * All of the people I know use Offset Earth to offset their non-reducable emmisions.
-    * Added on 06/12/2019
-
 * [Atmosfair](https://www.atmosfair.de/en/climate-protection-projects/) 
     * A German *non-profit organization* that actively contributes to CO₂ mitigation by promoting, developing and financing renewable energies in over 15 countries worldwide. 
     * Recommended by someone I know
@@ -31,6 +24,12 @@ This is a list of companies/organisations that provide carbon offseting.
     * The Swiss Non-Profit Organisation. Does consultation, education and climate protection projects.     
     * Recommended via Twitter 
     * Added on 19/08/2019
+
+* [Offset Earth](https://offset.earth/) 
+    * A British for-profit organization which simplifies carbon offsetting for individuals, families and businesses. Although Offset Earth is UK Limited company, it is an open-startup and all of their financials are availible to see. The margins are super thin as the founders believe in impact over profit.
+    * I run it! ([@remotealex](https://twitter.com/remotealex) 👋)
+    * All of the people I know use Offset Earth to offset their non-reducable emmisions.
+    * Added on 06/12/2019
 
 * World Land Trust (https://www.worldlandtrust.org/) 
     * WLT is an international conservation charity that protects the world's most biologically significant and threatned habitats acre by acre.
